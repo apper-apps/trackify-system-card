@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "clientId": 1,
+    "name": "Mobile App Development",
+    "status": "active",
+    "deadline": "2024-05-15T23:59:59Z",
+    "budget": 15000,
+    "progress": 65
+  },
+  {
+    "Id": 2,
+    "clientId": 2,
+    "name": "Brand Identity Design",
+    "status": "completed",
+    "deadline": "2024-03-30T23:59:59Z",
+    "budget": 8000,
+    "progress": 100
+  },
+  {
+    "Id": 3,
+    "clientId": 2,
+    "name": "Website Redesign",
+    "status": "active",
+    "deadline": "2024-06-20T23:59:59Z",
+    "budget": 20000,
+    "progress": 30
+  },
+  {
+    "Id": 4,
+    "clientId": 3,
+    "name": "E-commerce Platform",
+    "status": "active",
+    "deadline": "2024-07-10T23:59:59Z",
+    "budget": 42000,
+    "progress": 45
+  },
+  {
+    "Id": 5,
+    "clientId": 4,
+    "name": "Business Strategy Report",
+    "status": "pending",
+    "deadline": "2024-04-25T23:59:59Z",
+    "budget": 18500,
+    "progress": 0
+  },
+  {
+    "Id": 6,
+    "clientId": 5,
+    "name": "Social Media Campaign",
+    "status": "active",
+    "deadline": "2024-05-30T23:59:59Z",
+    "budget": 12000,
+    "progress": 80
+  },
+  {
+    "Id": 7,
+    "clientId": 5,
+    "name": "SEO Optimization",
+    "status": "completed",
+    "deadline": "2024-03-15T23:59:59Z",
+    "budget": 8000,
+    "progress": 100
+  },
+  {
+    "Id": 8,
+    "clientId": 1,
+    "name": "API Integration",
+    "status": "on-hold",
+    "deadline": "2024-06-01T23:59:59Z",
+    "budget": 5000,
+    "progress": 20
+  }
+]

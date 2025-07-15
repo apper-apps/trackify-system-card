@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "projectId": 1,
+    "title": "Set up development environment",
+    "completed": true,
+    "dueDate": "2024-04-01T23:59:59Z",
+    "priority": "high"
+  },
+  {
+    "Id": 2,
+    "projectId": 1,
+    "title": "Design user interface mockups",
+    "completed": true,
+    "dueDate": "2024-04-05T23:59:59Z",
+    "priority": "medium"
+  },
+  {
+    "Id": 3,
+    "projectId": 1,
+    "title": "Implement authentication system",
+    "completed": false,
+    "dueDate": "2024-04-15T23:59:59Z",
+    "priority": "high"
+  },
+  {
+    "Id": 4,
+    "projectId": 1,
+    "title": "Create database schema",
+    "completed": true,
+    "dueDate": "2024-04-08T23:59:59Z",
+    "priority": "high"
+  },
+  {
+    "Id": 5,
+    "projectId": 3,
+    "title": "Conduct user research",
+    "completed": false,
+    "dueDate": "2024-04-20T23:59:59Z",
+    "priority": "medium"
+  },
+  {
+    "Id": 6,
+    "projectId": 3,
+    "title": "Create wireframes",
+    "completed": false,
+    "dueDate": "2024-04-25T23:59:59Z",
+    "priority": "high"
+  },
+  {
+    "Id": 7,
+    "projectId": 4,
+    "title": "Setup payment gateway",
+    "completed": false,
+    "dueDate": "2024-05-01T23:59:59Z",
+    "priority": "high"
+  },
+  {
+    "Id": 8,
+    "projectId": 4,
+    "title": "Implement product catalog",
+    "completed": false,
+    "dueDate": "2024-05-10T23:59:59Z",
+    "priority": "medium"
+  },
+  {
+    "Id": 9,
+    "projectId": 6,
+    "title": "Content creation for posts",
+    "completed": true,
+    "dueDate": "2024-04-12T23:59:59Z",
+    "priority": "medium"
+  },
+  {
+    "Id": 10,
+    "projectId": 6,
+    "title": "Schedule social media posts",
+    "completed": false,
+    "dueDate": "2024-04-18T23:59:59Z",
+    "priority": "low"
+  }
+]

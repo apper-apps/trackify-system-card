@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "clientId": 2,
+    "projectId": 2,
+    "amount": 8000,
+    "status": "paid",
+    "dueDate": "2024-04-15T23:59:59Z"
+  },
+  {
+    "Id": 2,
+    "clientId": 5,
+    "projectId": 7,
+    "amount": 8000,
+    "status": "paid",
+    "dueDate": "2024-04-01T23:59:59Z"
+  },
+  {
+    "Id": 3,
+    "clientId": 1,
+    "projectId": 1,
+    "amount": 7500,
+    "status": "pending",
+    "dueDate": "2024-04-20T23:59:59Z"
+  },
+  {
+    "Id": 4,
+    "clientId": 3,
+    "projectId": 4,
+    "amount": 15000,
+    "status": "pending",
+    "dueDate": "2024-05-01T23:59:59Z"
+  },
+  {
+    "Id": 5,
+    "clientId": 5,
+    "projectId": 6,
+    "amount": 6000,
+    "status": "overdue",
+    "dueDate": "2024-03-30T23:59:59Z"
+  },
+  {
+    "Id": 6,
+    "clientId": 2,
+    "projectId": 3,
+    "amount": 5000,
+    "status": "draft",
+    "dueDate": "2024-04-25T23:59:59Z"
+  }
+]

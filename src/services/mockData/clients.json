@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "name": "John Smith",
+    "email": "john@techstartup.com",
+    "company": "Tech Startup Inc",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "totalValue": 15000
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah@designstudio.com",
+    "company": "Creative Design Studio",
+    "createdAt": "2024-02-08T14:20:00Z",
+    "totalValue": 28000
+  },
+  {
+    "Id": 3,
+    "name": "Mike Chen",
+    "email": "mike@ecommerce.com",
+    "company": "E-commerce Solutions",
+    "createdAt": "2024-02-20T09:15:00Z",
+    "totalValue": 42000
+  },
+  {
+    "Id": 4,
+    "name": "Emma Wilson",
+    "email": "emma@consulting.com",
+    "company": "Business Consulting LLC",
+    "createdAt": "2024-03-05T16:45:00Z",
+    "totalValue": 18500
+  },
+  {
+    "Id": 5,
+    "name": "David Brown",
+    "email": "david@marketing.com",
+    "company": "Digital Marketing Agency",
+    "createdAt": "2024-03-12T11:30:00Z",
+    "totalValue": 35000
+  }
+]
