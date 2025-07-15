@@ -4,13 +4,37 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  darkMode: 'class',
+darkMode: 'class',
   theme: {
     extend: {
       colors: {
         border: {
           DEFAULT: 'rgb(229 231 235)', // gray-200
           dark: 'rgb(31 41 55)', // gray-800
+        },
+        primary: {
+          50: 'rgb(239 246 255)', // blue-50
+          100: 'rgb(219 234 254)', // blue-100
+          200: 'rgb(191 219 254)', // blue-200
+          300: 'rgb(147 197 253)', // blue-300
+          400: 'rgb(96 165 250)', // blue-400
+          500: 'rgb(59 130 246)', // blue-500
+          600: 'rgb(37 99 235)', // blue-600
+          700: 'rgb(29 78 216)', // blue-700
+          800: 'rgb(30 64 175)', // blue-800
+          900: 'rgb(30 58 138)', // blue-900
+        },
+        secondary: {
+          50: 'rgb(249 250 251)', // gray-50
+          100: 'rgb(243 244 246)', // gray-100
+          200: 'rgb(229 231 235)', // gray-200
+          300: 'rgb(209 213 219)', // gray-300
+          400: 'rgb(156 163 175)', // gray-400
+          500: 'rgb(107 114 128)', // gray-500
+          600: 'rgb(75 85 99)', // gray-600
+          700: 'rgb(55 65 81)', // gray-700
+          800: 'rgb(31 41 55)', // gray-800
+          900: 'rgb(17 24 39)', // gray-900
         },
         primary: {
           50: '#f0f9ff',
