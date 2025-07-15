@@ -6,9 +6,8 @@
 
 @layer base {
   * {
-    @apply border-border;
+    @apply border-gray-200 dark:border-gray-800;
   }
-  
   body {
     @apply bg-white dark:bg-dark-900 text-gray-900 dark:text-white;
     font-family: 'Inter', system-ui, sans-serif;

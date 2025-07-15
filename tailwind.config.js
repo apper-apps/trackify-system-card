@@ -4,20 +4,24 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  darkMode: "class",
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
-        primary: {
-          50: '#eef2ff',
-          100: '#e0e7ff',
-          500: '#6366f1',
-          600: '#4f46e5',
-          700: '#4338ca',
+        border: {
+          DEFAULT: 'rgb(229 231 235)', // gray-200
+          dark: 'rgb(31 41 55)', // gray-800
         },
-        secondary: {
-          50: '#faf5ff',
-          100: '#f3e8ff',
+        primary: {
+          50: '#f0f9ff',
+          100: '#e0f2fe',
+          200: '#bae6fd',
+          300: '#7dd3fc',
+          400: '#38bdf8',
+          500: '#0ea5e9',
+          600: '#0284c7',
+          700: '#0369a1',
+          800: '#075985',
           500: '#8b5cf6',
           600: '#7c3aed',
           700: '#6d28d9',
